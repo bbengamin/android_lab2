@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="entityActivityName">Карточка пользователя</string>
+    <string name="entityNameText">Имя</string>
+    <string name="entityPhoneText">Телефон</string>
+    <string name="btnSaveText">Сохранить</string>
+    <string name="btnEditText">Ред.</string>
+    <string name="btnRemoveText">Удалить</string>
+    <string name="btnMoreText">Подробнее</string>
+
+    <string name="labelName">Имя:</string>
+    <string name="labelPhone">Телефон:</string>
+</resources>
